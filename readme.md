@@ -18,3 +18,7 @@ https://meet.google.com/btt-tvtm-nna
 - https://www.jetbrains.com/webstorm/
 - https://brackets.io/
 - https://www.sublimetext.com/
+
+# Git
+- Git system control https://git-scm.com/
+- Video Tutorial https://www.youtube.com/watch?v=CvUiKWv2-C0
