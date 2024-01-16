@@ -1,5 +1,5 @@
 Link to video conference
-https://meet.google.com/cyv-vyzz-ndt
+https://meet.google.com/btt-tvtm-nna
 
 # Tutorials&documentation for JS and frameworks
 
