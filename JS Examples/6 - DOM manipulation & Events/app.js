@@ -1,5 +1,11 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM fully loaded and parsed');
+
+    // setTimeout(function(){
+    //     alert('Welcome to my page');
+    // }, 4000)
+
+    animateColorizePage();
 })
 
 const clickmeButton = document.getElementById('clickmeButton');
@@ -36,5 +42,20 @@ const deleteMeButton = document.getElementById('deleteMeButton');
 deleteMeButton.addEventListener('click', function(){
     deleteMeButton.remove();
 })
+
+
+function animateColorizePage(){
+    const body = document.body;
+    const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange'];
+    let index = 0;
+
+    setInterval(function(){
+        body.style.backgroundColor = colors[index];
+        index++;
+        if(index === colors.length){
+            index = 0;
+        }
+    }, 10000)
+}
 
 
