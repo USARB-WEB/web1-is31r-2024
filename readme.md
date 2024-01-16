@@ -33,3 +33,8 @@ https://drive.google.com/file/d/1cxlgkkiy9-bhJH0GaRhFrOv_lwUg2BdX/view?usp=shari
 
 - Figma mockup
 https://www.figma.com/file/zDUlOnDFdplvVmd1Cd8WDN/PPW-2023-IS---Web-Site-ToR?type=design&node-id=0%3A1&mode=design&t=87wubT3Kp3ELPPyc-1
+
+# Tools
+- https://webpack.js.org/
+- https://nodejs.org/
+- https://www.npmjs.com/
